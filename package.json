@@ -15,7 +15,7 @@
     "build:win": "npm run build:renderer && electron-builder --win --config.asar=true"
   },
   "dependencies": {
-    "@chakra-ui/react": "^3.16.0",
+    "@chakra-ui/react": "^3.19.1",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@heroicons/react": "^2.2.0",
