@@ -21,7 +21,7 @@
     "generate-electron-build": "npm run build:renderer && npm run build:electron"
   },
   "dependencies": {
-    "@chakra-ui/react": "^3.19.2",
+    "@chakra-ui/react": "^3.23.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@heroicons/react": "^2.2.0",
